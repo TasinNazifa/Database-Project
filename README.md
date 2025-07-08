@@ -1,6 +1,6 @@
 # Database-Project
 
-This project is a medicine inventory system project which can both be accessed by customers and admins. The customers can purchase medicines whilst admins can add, delete, update medicines alongside keeping track of the profit generated as well as the total amount of medicines sold. This project can be treated as an online pharmacy system.
+This project is a medicine inventory system which is built to manage medical stocks efficiently. This project can be accessed by both customers and admins.The customers can purchase medicines whilst admins can add, delete, update medicines alongside keeping track of the profit generated as well as the total amount of medicines sold. This project can be treated as an online pharmacy system.
 
 For further details and walkthrough of the project, checkout the following link:https://github.com/TasinNazifa/Database-Project/wiki
 
